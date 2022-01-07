@@ -5,15 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.law.java</groupId>
-  <artifactId>java11</artifactId>
-  <packaging>pom</packaging>
+  <artifactId>generics</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <modules>
-    <module>hello-world</module>
-    <module>generics</module>
-  </modules>
 
-  <name>java11</name>
+  <name>generics</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
