@@ -22,7 +22,7 @@ public class GenericsMain
     }
 
     private static void printDoubled(ArrayList<Integer> items) {
-        for(Integer item : items){
+        for(int item : items){
             System.out.println(item * 2);
         }
     }
